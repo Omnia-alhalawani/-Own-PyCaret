@@ -1,8 +1,2 @@
-python
+pycaret==1.0.0
 streamlit
-pycaret
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
