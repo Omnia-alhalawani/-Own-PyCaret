@@ -1,5 +1,5 @@
 pycaret
 streamlit
 catboost
-python==3.10.12
+python
 
